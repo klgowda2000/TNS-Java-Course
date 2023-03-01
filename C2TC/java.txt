@@ -1,0 +1,15 @@
+Java
+
+Default Access modifier - the accessing within pkg - different class within the package
+
+Private Access modifier - the accessing within the class
+
+Public Access modifier - within the package and outside the package and every where
+
+Protected Access modifier - within the package - outside the package with help of inheritance
+
+class A
+
+class B extends class A
+
+git id - https://github.com/neeltali/b45.git
